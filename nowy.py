@@ -16,3 +16,4 @@ for i in range(1, 100):
         print(i)
 >>>>>>> test1
 print('to jest nowa gałąź test3')
+# blebleblblelbebleb
