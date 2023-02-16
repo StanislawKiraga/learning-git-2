@@ -3,3 +3,5 @@ print('To jest main plik')
 #asefasdfa
 #asefdasdfasd
 #asdfasdfsadf
+#WWWWWWWWWWWWWWW
+print('ale fajnie')
