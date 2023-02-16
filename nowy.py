@@ -17,3 +17,4 @@ for i in range(1, 100):
 >>>>>>> test1
 print('to jest nowa gałąź test3')
 # blebleblblelbebleb
+#uauauauauauauauaauua
